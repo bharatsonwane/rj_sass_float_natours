@@ -1,5 +1,5 @@
 import React, { Fragment } from 'react'
-import { allClass } from 'src/constants/customModuleClassMethod'  // allClass("globalClasses", "moduleClasses", moduleObjectFromModuleCss)}
+import { allClass } from 'src/helper/customModuleClassMethod'  // allClass("globalClasses", "moduleClasses", moduleObjectFromModuleCss)}
 import mdl from './natours.module.scss'
 
 import Navigation from 'src/components/navbarMenu/Navigation'
